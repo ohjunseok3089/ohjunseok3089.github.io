@@ -1,6 +1,15 @@
-# plainwhite
+# 혁신적인 개발자를 꿈꾸는 대학생
 
-Simplistic jekyll portfolio-style theme for writers.
+안녕하세요, 현재 미국 대학교, Purdue University 에서 Computer Science를 전공 중인 오준석입니다.
+새로운 것을 만들어 내는게 취미인 저는 과제를 할때에도 코드를 재미있고 효율적인 방식으로 가독성 높게 짜는 편입니다.
+
+아직 개발 경험은 턱없이 부족하지만, 끈기있게 배움을 포기하지 않고 더 도움이 되는 개발자가 되겠습니다.
+
+Hello! My name is Junseok Oh, and currently majoring in Computer Science @ Purdue University.
+Usually, throughout my life, I love to create something new, and don't hesitate to learn about
+things that I feel interesting. And this made me to code more creative and efficient at the same time in college,
+which also make readers to have 'fun' reading and reviewing my code.
+I have not enough developing expereinces, but I will stay busy patient learning new concepts and become more reliable and innovative developer.
 
 **Demo**: [samarsault.com](https://samarsault.com)
 
