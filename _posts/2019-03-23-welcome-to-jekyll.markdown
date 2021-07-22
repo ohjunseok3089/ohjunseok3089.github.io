@@ -29,15 +29,18 @@ I have not enough developing expereinces, but I will stay busy patient learning 
 
 **☕️ Personal Blog**:    [ohjunseok3089.github.io](ohjunseok3089.github.io)
 * * *
+
 ⛏️ Skills
 ======================
 ## BackEnd
     - Java, C
     - Intellij, Visual Studio, Vim
     - Git
+
 ## FrontEnd
     - PHP, HTML, CSS
     - phpStorm
+
 ## DevOps
     - MySQL
     - FileZilla
@@ -45,15 +48,15 @@ I have not enough developing expereinces, but I will stay busy patient learning 
 💻 Working Experience & Projects
 ======================
 ### ByteTech Inc.
-#### - 🗓 2019. 05 ~ 2019. 09 (4 Months)
+#### 🗓 2019. 05 ~ 2019. 09 (4 Months)
     웹사이트 기본적인 유지 보수 및 기능 개발 참여
     
-#### - 🗓 2021. 03 ~ 2021. 08 (5 Months)
+#### 🗓 2021. 03 ~ 2021. 08 (5 Months)
     학생들의 성적분석을 위한 웹사이트 개발 총괄 (Full Stack)
     성적 회귀 분석 및 인공지능 성적 분석 참여
     2021년 7월 본격 론칭.
     
-##### 역할
+#### 역할
     - 프론트엔드
         웹사이트 디자인
         유저 친화적인 구상
