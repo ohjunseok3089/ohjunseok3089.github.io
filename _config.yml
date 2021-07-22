@@ -1,55 +1,67 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: 혁신적인 개발자를 꿈꾸는 대학생,
+author: Junseok Oh
+email: ohjunseok3089@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  안녕하세요, 현재 미국 대학교, Purdue University 에서 Computer Science를 전공 중인 오준석입니다.
+  새로운 것을 만들어 내는게 취미인 저는 과제를 할때에도 코드를 재미있고 효율적인 방식으로 가독성 높게 짜는 편입니다.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  아직 개발 경험은 턱없이 부족하지만, 끈기있게 배움을 포기하지 않고 더 도움이 되는 개발자가 되겠습니다.
+
+  Hello! My name is Junseok Oh, and currently majoring in Computer Science @ Purdue University.
+  Usually, throughout my life, I love to create something new, and don't hesitate to learn about
+  things that I feel interesting. And this made me to code more creative and efficient at the same time in college,
+  which also make readers to have 'fun' reading and reviewing my code.
+  I have not enough developing expereinces, but I will stay busy patient learning new concepts and become more reliable and innovative developer.
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Junseok Oh
+  tagline: 개발자를 꿈꾸는 대학생
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
+  search: true # set to true to enable searchbar
+  dark_mode: true # set to true to add dark mode toggle
+  portfolio_image: "assets/portfolio.JPG" # the path from the base directory of the site to the image to display (no / at the start)
+  html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  condensed_mobile:
+    #- home
+    - page
+    - post
+  # generate social links in footer
+  social_links:
+    # twitter: samarsault
+    github:  ohjunseok3089@gmail.com
+    # linkedIn: in/samarsault
+    #dribbble: jekyll
+    #flickr:   jekyll
+    instagram: junseok._.o
+    #pinterest: jekyll
+    #youtube: jekyll
+    #facebook: jekyll
+    #soundcloud: jekyll
+    #telegram: jekyll
+    #gitlab: jekyll
+    email: ohjunseok3089@gmail.com
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: plainwhite
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
