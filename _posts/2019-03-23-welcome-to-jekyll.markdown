@@ -7,6 +7,8 @@ categories: 자기소개 Introduction
 💁🏻 About Me,
 ======================
 
+* * *
+
 # 혁신적인 개발자를 꿈꾸는 대학생,
 
 안녕하세요, 현재 미국 대학교, Purdue University 에서 Computer Science를 전공 중인 오준석입니다.
@@ -32,6 +34,7 @@ I have not enough developing expereinces, but I will stay busy patient learning 
 
 ⛏️ Skills
 ======================
+
 ## BackEnd
     - Java, C
     - Intellij, Visual Studio, Vim
@@ -45,6 +48,8 @@ I have not enough developing expereinces, but I will stay busy patient learning 
     - MySQL
     - FileZilla
     
+* * *
+
 💻 Working Experience & Projects
 ======================
 ### ByteTech Inc.
@@ -66,12 +71,16 @@ I have not enough developing expereinces, but I will stay busy patient learning 
         성적 분석 알고리즘 구현
         TensorFlow & Sklearn (사이킷런) 활용한 Linear Regression & Score Prediction
 
+* * *
+
 🚴‍♂️ Personal Experiences & Projects
 ======================
 ### Hello World Hackathon
 #### - 🗓 2019. 09
     - 참여한 프로젝트
         대학생들의 성적을 넣고 평균 학점 계산 및 시간표 생성과 시간 알리미 안드로이드 앱 구현 참여
+
+* * *
 
 📚 Education
 ======================
