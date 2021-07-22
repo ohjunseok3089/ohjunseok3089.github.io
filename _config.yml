@@ -2,8 +2,10 @@ title: 혁신적인 개발자를 꿈꾸는 대학생
 author: Junseok Oh
 email: ohjunseok3089@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  열심히 공부하는 학생입니다.
+  아직 대학생입니다..
 show_excerpts: true # set to true to show excerpts on the homepage
+permalink: /:title
+url: "https://ohjunseok3089.github.io"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,27 +18,22 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.JPG" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
-  condensed_mobile:
-    - home
-    - page
-    - post
+  disqus_shortname: ohjunseok3089
+
   # generate social links in footer
   social_links:
-    # twitter: samarsault
     github:  ohjunseok3089
-    # linkedIn: in/samarsault
-    #dribbble: jekyll
-    #flickr:   jekyll
     instagram: junseok._.o
-    #pinterest: jekyll
-    #youtube: jekyll
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
-    #gitlab: jekyll
-    email: ohjunseok3089@gmail.com
+    # linkedIn: in/fuzzysound
+    rss: rss
+    # twitter: 
+    # dribbble: jekyll
+    # flickr:   jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # facebook: jekyll
+    # soundcloud: jekyll
+    # telegram: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -44,18 +41,18 @@ plainwhite:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-    disqus_shortname: games
-    navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
 
 # Build settings
+remote_theme: thelehhman/plainwhite-jekyll
+
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
+  - jekyll-sitemap
+
+google_fonts: "Nanum+Gothic:400,700"

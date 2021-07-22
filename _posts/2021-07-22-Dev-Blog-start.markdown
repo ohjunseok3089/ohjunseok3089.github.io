@@ -2,7 +2,7 @@
 layout: post
 title:  "Dev Blog 시작"
 date:   2021-07-22 23:27:00
-categories: 자기소개 Introduction
+categories: [misc]
 ---
 💁🏻 About Me,
 ======================
