@@ -42,9 +42,10 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
 
 아나콘다(Anaconda)를 설치 완료하였으면, 이젠 사이킷런을 설치해야 합니다.
 
-1. conda install scikit-learn
-2. Jupyter Notebook
-    1. pip install scikit-learn
+1. Scikit learn 설치
+    - conda install scikit-learn
+2. Jupyter Notebook 설치
+    - pip install scikit-learn
 
 설치가 완료되면 아나콘다와 동일하게 잘 작동하는지 확인해봐야합니다.
 
