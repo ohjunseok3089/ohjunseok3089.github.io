@@ -29,7 +29,7 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
 ## 아나콘다(Anaconda) 설치방법
 
 1.  아나콘다 홈페이지에서 설치 패키지 다운로드
-    1.  https://www.anaconda.com/products/individual#macos
+    1.  [아나콘다 설치](https://www.anaconda.com/products/individual#macos)
     2.  설치가 완료되었으면, 잘 작동하는지 확인해본다.
     ```
     conda —version
