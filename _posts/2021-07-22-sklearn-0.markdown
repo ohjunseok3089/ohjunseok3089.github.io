@@ -61,6 +61,8 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
 설치가 완료되면 아나콘다와 동일하게 잘 작동하는지 확인해봐야합니다.
 
 파이썬 확장자의 파일을 하나 만드신 후, 
-	import sklearn
-	print(sklearn.__version__)
+```
+import sklearn
+print(sklearn.__version__)
+```
 을 확인하시면 됩니다.
