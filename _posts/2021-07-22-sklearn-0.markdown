@@ -26,27 +26,37 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
 
   + 아나콘다(Anaconda)는 파이썬에서 데이터를 분석할때에 사용할 수 있는 다양한 라이브러리를 포함하는 패키지형 소프트웨어로, 아나콘다 하나를 설치함으로서 데이터 관련 다른 라이브러리들을 별도로 설치해야하는 번거로움이 사라진다.
 
-+ 아나콘다(Anaconda) 설치방법
+## 아나콘다(Anaconda) 설치방법
 
-1. 아나콘다 홈페이지에서 설치 패키지 다운로드
+1.  아나콘다 홈페이지에서 설치 패키지 다운로드
     1. https://www.anaconda.com/products/individual#macos
     2. 설치가 완료되었으면, 잘 작동하는지 확인해본다.
+    ```
     3. conda —version
+    ```
     4. 또한, 업데이트 진행도 실시해준다.
+    ```
     5. conda update conda
-    
-1.2. 만약 conda 명령어가 실행이 되지 않는경우
-    1. vi ~/.bash_profile
-    2. export PATH=“/opt/anaconda3/bin:$PATH”
-        1. /opt 이후 경로는 본인이 설치한 anaconda3의 경로로 지정해주셔야 합니다.
-    3. esc-> :wq 엔터 후, cmd 에서 source ~/.bash_profile 실행
+    ```
+
+1.2.  만약 conda 명령어가 실행이 되지 않는경우
+      ```
+      vi ~/.bash_profile
+      export PATH=“/opt/anaconda3/bin:$PATH”
+      ```
+      1. /opt 이후 경로는 본인이 설치한 anaconda3의 경로로 지정해주셔야 합니다.
+      3. esc-> :wq 엔터 후, cmd 에서 source ~/.bash_profile 실행
 
 아나콘다(Anaconda)를 설치 완료하였으면, 이젠 사이킷런을 설치해야 합니다.
 
-1. Scikit learn 설치
-    - conda install scikit-learn
-2. Jupyter Notebook 설치
-    - pip install scikit-learn
+1.  Scikit learn 설치
+    ```
+    conda install scikit-learn
+    ```
+2.  Jupyter Notebook 설치
+    ```
+    pip install scikit-learn
+    ```
 
 설치가 완료되면 아나콘다와 동일하게 잘 작동하는지 확인해봐야합니다.
 
