@@ -34,6 +34,7 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
     3. conda —version
     4. 또한, 업데이트 진행도 실시해준다.
     5. conda update conda
+    
 1.2. 만약 conda 명령어가 실행이 되지 않는경우
     1. vi ~/.bash_profile
     2. export PATH=“/opt/anaconda3/bin:$PATH”
