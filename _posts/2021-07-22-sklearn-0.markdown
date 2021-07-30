@@ -31,7 +31,7 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
 1.  아나콘다 홈페이지에서 설치 패키지 다운로드
     1.  [아나콘다 설치](https://www.anaconda.com/products/individual#macos)
     2.  설치가 완료되었으면, 잘 작동하는지 확인해본다.
-    ```
+    ``` bash
     conda —version
     ```
     3.  또한, 업데이트 진행도 실시해준다.
@@ -46,7 +46,7 @@ Scikit-learn을 사용하기로 결정이 됐습니다.
         -   /opt 이후 경로는 본인이 설치한 anaconda3의 경로로 지정해주셔야 합니다.
         -   esc-> :wq 엔터 후, cmd 에서 source ~/.bash_profile 실행
 
-아나콘다(Anaconda)를 설치 완료하였으면, 이젠 사이킷런을 설치해야 합니다.
+`아나콘다(Anaconda)`를 설치 완료하였으면, 이젠 사이킷런을 설치해야 합니다.
 
 1.  Scikit learn 설치
     ```
