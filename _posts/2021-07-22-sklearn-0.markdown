@@ -5,6 +5,7 @@ date:   2021-07-22 23:43:00
 categories: 사이킷런 sklearn 인공지능 ai 머신러닝
 tags: [sklearn, machine-learning, ai]
 ---
+
 사이킷런 공부를 해보려고 합니다.
 사실 제 단계에서는 아직 이르지만, 현재 제가 있는 팀에서 성적 분석 및 예측을 위한 솔루션으로
 Scikit-learn을 사용하기로 결정이 됐습니다.
