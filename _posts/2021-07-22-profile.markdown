@@ -44,6 +44,7 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 * * *
 ⛏️ Skills
 ======================
+
 ## BackEnd
     - Java, C, C++, R
     - Intellij, Visual Studio, Vim, R Studio
@@ -72,7 +73,7 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
 ##### SCEmbroider: Spatial visualizer of single-cell RNA sequencing
 ##### Stanford University
 ###### Siyeon Rhee*, Soochi Kim*, Minwoo Jung, Yein Jung, Yunju Jung, Soojung So, Junseok Oh, ., Jisoo Kim# & Joseph C. Wu #. SCEmbroider: Spatial visualizer of single-cell RNA sequencing data. Manuscript in progress
-####
+
 #### - 🗓 2022. 02 ~ Current
 ##### Web Developer - JavaScript, HTML/CSS, and PHP
     Front-end Developer for Bioinformatics Database for scEmbroider Visualization Tool
