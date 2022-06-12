@@ -18,7 +18,7 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  futrue: true
+  future: true
   # disqus_shortname: ohjunseok3089
   # generate social links in footer
   social_links:
