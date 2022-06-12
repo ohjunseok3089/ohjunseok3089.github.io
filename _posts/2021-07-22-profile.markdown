@@ -69,7 +69,7 @@ I am currently a Junior at Purdue University Computer Science, specializing in t
     
 <hr/>
 
-### Stanford Research Web Developer
+### <img src='https://user-images.githubusercontent.com/50987316/162639916-01b195e8-6f50-449b-9d97-796b6a3a0104.png' style="width: 40px"> Stanford University Research Web Developer
 #### - 🗓 2022. 02 ~ Current
 ##### Web Developer - JavaScript, HTML/CSS, and PHP
     
