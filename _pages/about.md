@@ -21,7 +21,7 @@ I am passionate about developing innovative AI/ML solutions that enhance humanâ€
 - **Efficient AI/ML Systems**
 - **Human-Computer Interaction**
 
-I have collaborated with top institutions such as Stanford University and Purdue University, and I have contributed to projects ranging from single-cell RNA sequencing analysis to real-time data visualization and AI-driven technical support.
+I have collaborated with top institutions such as Stanford University and Purdue University.
 
 ---
 
