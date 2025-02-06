@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Junseok (June) Oh
 
-Welcome to my personal website! I am a research engineer / data scientist specializing in Generative AI, Machine Learning, and AIOps. I currently work at Hewlett Packard Enterprise and am pursuing a Master of Science in Data Science at the University of Pennsylvania.
+Welcome to my personal website! I am a research engineer / data scientist specializing in Generative AI and Machine Learning. I currently work at Hewlett Packard Enterprise and am pursuing a Master of Science in Data Science at the University of Pennsylvania.
 
 ---
 
